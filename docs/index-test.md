@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown kitchen sink
+title: Resources
 nav_order: 3
 ---
 # [](#header-1)RESOURCES
