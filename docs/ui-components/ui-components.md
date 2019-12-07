@@ -2,9 +2,7 @@
 layout: default
 title: UI Components
 nav_order: 3
-has_children: true
-permalink: /docs/ui-components
----
+has_children: false---
 
 # UI Components
 
