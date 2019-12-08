@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comb Jellies :)
+title: COMB JELLIES
 nav_order: 1
 permalink: /
 ---
