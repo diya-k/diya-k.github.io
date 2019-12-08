@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Resources
-nav_order: 3
+title: RESOURCES
+nav_order: 4
 ---
 # [](#header-1)RESOURCES
 1. https://ocean.si.edu/ocean-life/invertebrates/arctic-comb-jelly get pic from here too 
