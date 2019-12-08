@@ -10,7 +10,7 @@ permalink: /
 
 How Comb Jellies Inspired a Redesign of Cancer-detecting Microfluidic Devices.
 {: .fs-6 .fw-300 }
-
+### <-- Click the links to the left to explore!
 ---
 
 ## THE BIOLOGY
