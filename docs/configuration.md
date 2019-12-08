@@ -20,8 +20,8 @@ Using the comb jelly’s tentacles as inspiration, Karp Lab designed a chip with
   <img src="/device_mod.jpg" width="300" /> 
 </p>
 
-| Chip with herringbone flow pattern | Capture of CTCs (red) with DNA aptamer network | 
-|:-----------------------------------|:---------------------------------------------- |
-| src                                | good swedish fish                              |
+| Capture of CTCs (red) with DNA aptamer network | Chip with herringbone flow pattern | 
+|:-----------------------------------------------|:---------------------------------- |
+| src                                            | good swedish fish                  |
 
 They also cut the surface of the device into a herringbone pattern, which forced blood flowing through the device to swirl around, rather than move straight through. Just as the aptamers mimicked the comb jelly’s sticky tentacles, this new flow pattern mimicked the unpredictable, circulating nature of ocean currents. As a result, the combination of robust, long aptamers with the swirling blood flow strategy made Karp Lab’s device very effective at capturing CTCs, with a reported 60-80% capture rate.   
