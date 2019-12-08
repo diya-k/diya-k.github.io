@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Bioinspired Microfluidic Device
+title: CIRCULATING TUMOR CELLS
 nav_order: 2
 ---
 
-# BIOINSPIRED DESIGN
+# CIRCULATING TUMOR CELLS
 ---
+## Background into Karp Lab's creation...
 Comb jellies and their colloblast-lined tentacles became the muse for The Karp Labs’ researchers, as they sought to engineer a device that could detect circulating tumor cells (CTCs) in the bloodstream. to isolate these cells, other researchers have tried building microfluidic devices covered with antibodies specific to a protein found on the cancer cell, and then flowing the blood sample through the device linearly. However, these devices generally low success rates at finding CTCs because the antibodies are just a few nanometers in length, which is usually too short to easily catch cells in flowing liquid. 
 
 >	
