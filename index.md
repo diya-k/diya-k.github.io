@@ -16,7 +16,10 @@ How Comb Jellies Inspired a Redesign of Cancer-detecting Microfluidic Devices.
 ## THE BIOLOGY
 
 ### Comb Jellies 
-
+![](https://github.com/diya-k/diya-k.github.io/blob/master/docs/sm01.wmv)
+![](https://www.pnas.org/content/pnas/109/48/19626/F4.large.jpg)
+![](https://github.com/diya-k/diya-k.github.io/blob/master/docs/device_mod.jpg)
+![](https://github.com/diya-k/diya-k.github.io/blob/master/docs/captured_cells.PNG)
 All jellyfish are considered jellies, but not all jellies are jellyfish. What gives? It turns out that having a body made of gelatinous material doesn't necessarily mean you’re a jellyfish. For example, the animals known as comb jellies look in many ways like true jellyfish, even though they are actually distant cousins!
 
 ![](https://media.wired.com/photos/59323e925c4fbd732b55167a/master/w_660,c_limit/The-Lovely-Lobed-Comb-Jelly.gif)
