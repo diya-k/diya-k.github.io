@@ -14,6 +14,6 @@ nav_order: 4
 
 # [](#header-1)RESOURCES (Images)
 1.	Semenov, Alexander. “Euplokamis sp.” Image. Flickr. 2011. Accessed 9 Dec. 2019. Available at: https://www.flickr.com/photos/a_semenov/5679337129/in/set-72157610938575131/ 
-2.	Semenov, Alexander. “Euplokamis sp.” Image. Flickr. 2010. Accessed 9 Dec. 2019. Available at: https://www.flickr.com/photos/a_semenov/5099372242/in/photostream/
+2.	Semenov, Alexander. “Mertensia ovum” Image. Flickr. 2010. Accessed 9 Dec. 2019. Available at: https://www.flickr.com/photos/a_semenov/5099372242/in/photostream/
 3.	Mohamed, Nurie. “The Lovely Comb Jelly”. Gif. Wired. 2014. Accessed 8 Dec. 2019. Available at: https://www.wired.com/2014/10/absurd-creature-week-comb-jelly-puts-one-hell-laser-show-man/
 4.	Tang, Yu-Hang. “RED BLOOD CELLS (RED) AND CIRCULATING TUMOR CELLS (GREEN) TRAVELING THROUGH A MICROFLUIDIC CELL SORTING DEVICE AS SIMULATED BY UDEVICEX.” Image. Flickr. 2016. Accessed 7 Dec 2019. Available at: https://www.flickr.com/photos/departmentofenergy/29510101804
